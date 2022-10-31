@@ -14,7 +14,7 @@
 // Components number
 #define iAD22100S               108U                    // Analog devices AD22100S
 
-// S-8110C, S-8120C System Parts definitions
+// AD22100S System Parts definitions
 #define iAD22100S_xoff          ( 1.375F*(iADC_vdd/5.0F) )      // X offset [V]
 #define iAD22100S_yoff          0.0F                    // Y offset [degree celsius]
 #define iAD22100S_gain          ( 0.0225F*(iADC_vdd/5.0F) )     // Gain [V/degree celsius]
